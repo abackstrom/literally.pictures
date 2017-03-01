@@ -4,5 +4,5 @@
 sleep 10
 
 cd /var/www/literally.pictures/html
-git fetch
-git reset --hard origin/master
+git fetch -q
+git reset -q --hard origin/master
