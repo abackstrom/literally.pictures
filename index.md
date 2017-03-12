@@ -73,3 +73,5 @@ i needed this domain for secret reasons.
                      |    |
 --------------------/ ,  . \--------._
 ```
+
+<base href="https://sixohthree.com/media/">
