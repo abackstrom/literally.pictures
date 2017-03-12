@@ -14,6 +14,9 @@ page:
 * Converts `text/markdown` documents
 * Will also convert `text/plain` documents if the path ends in `.md`
 
+What do I even like about this dumb page? It's less daunting than creating a
+new blog post. It's less public than Twitter, so essentially no pressure. 
+
   [1]: https://github.com/abackstrom/markdown-preview
   [2]: https://github.com/borismus/markdown-preview
 
