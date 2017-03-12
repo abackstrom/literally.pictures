@@ -4,6 +4,8 @@ Daylight Saving Time is still stupid. What should I do with all my old blog
 posts? Part of me wants to delete them, part of me wants to add an "I was
 young and stupid" disclaimer to most (all?) of them.
 
+omg this document is now `text/markdown` for no sensible reason.
+
 # 2017-03-07
 
 Breath of the Wild is a blast. (Why is it called Breath of the Wild?)
@@ -41,6 +43,7 @@ Fight me:
 
 i needed this domain for secret reasons.
 
+```
               v .   ._, |_  .,
            `-._\/  .  \ /    |/_
                \\  _\, y | \//
@@ -53,3 +56,4 @@ i needed this domain for secret reasons.
                      |   =|
                      |    |
 --------------------/ ,  . \--------._
+```
