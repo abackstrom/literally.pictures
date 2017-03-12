@@ -74,6 +74,6 @@ i needed this domain for secret reasons.
 --------------------/ ,  . \--------._
 ```
 
-![could you not][couldunot.jpg]
+![could you not](couldunot.jpg)
 <base href="https://sixohthree.com/media/">
-![could you not][couldunot.jpg]
+![could you not](couldunot.jpg)
