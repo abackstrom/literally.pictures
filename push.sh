@@ -14,5 +14,5 @@ cp /volume1/sync/dropbox/Notes/literally.pictures.txt /volume1/annika/literally.
 
 # push to remote repository
 git add index.md
-git commit -am 'Automatic commit of index.txt'
+git commit -am 'Automatic commit of index.md'
 git push origin HEAD
