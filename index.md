@@ -3,8 +3,7 @@
 Daylight Saving Time is still stupid.
 
 What should I do with all my old blog posts? Part of me wants to delete them,
-part of me wants to add an "I was young and stupid" disclaimer to most (all?)
-of them.
+part of me wants to preface them with an "I was young and stupid" disclaimer.
 
 omg this document is now `text/markdown` for no sensible reason. I [hacked
 on][1] [borismus/markdown-preview][2] specifically so it would convert his
