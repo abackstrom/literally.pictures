@@ -1,3 +1,5 @@
+<base href="https://sixohthree.com/media/">
+
 # 2017-03-12
 
 Daylight Saving Time is still stupid.
@@ -73,7 +75,3 @@ i needed this domain for secret reasons.
                      |    |
 --------------------/ ,  . \--------._
 ```
-
-![could you not](couldunot.jpg)
-<base href="https://sixohthree.com/media/">
-![could you not](couldunot.jpg)
