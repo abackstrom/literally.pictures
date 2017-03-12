@@ -10,9 +10,9 @@ git fetch
 git reset --hard origin/master
 
 # update index.txt from dropbox
-cp /volume1/sync/dropbox/Notes/literally.pictures.txt /volume1/annika/literally.pictures/index.txt
+cp /volume1/sync/dropbox/Notes/literally.pictures.txt /volume1/annika/literally.pictures/index.md
 
 # push to remote repository
-git add index.txt
+git add index.md
 git commit -am 'Automatic commit of index.txt'
 git push origin HEAD
