@@ -8,7 +8,7 @@ What should I do with all my old blog posts? Part of me wants to delete them,
 part of me wants to preface them with an "I was young and stupid" disclaimer.
 
 omg this document is now `text/markdown` for no sensible reason. I [hacked
-on][1] [borismus/markdown-preview][2] specifically so it would convert his
+on][1] [borismus/markdown-preview][2] specifically so it would convert this
 page:
 
 * Primarily cares about Content-Type header (this page doesn't have `.md` in
