@@ -6,8 +6,8 @@ young and stupid" disclaimer to most (all?) of them.
 
 omg this document is now `text/markdown` for no sensible reason. I [hacked
 on](https://github.com/abackstrom/markdown-preview)
-[borismus/markdown-preview](https://github.com/borismus/markdown-preview) so
-it would convert this Markdown document to HTML on page load. Why.
+[borismus/markdown-preview](https://github.com/borismus/markdown-preview)
+specifically so it would convert his page.
 
 Extension changes:
 
