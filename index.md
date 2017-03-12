@@ -1,19 +1,22 @@
 # 2017-03-12
 
-Daylight Saving Time is still stupid. What should I do with all my old blog
-posts? Part of me wants to delete them, part of me wants to add an "I was
-young and stupid" disclaimer to most (all?) of them.
+Daylight Saving Time is still stupid.
+
+What should I do with all my old blog posts? Part of me wants to delete them,
+part of me wants to add an "I was young and stupid" disclaimer to most (all?)
+of them.
 
 omg this document is now `text/markdown` for no sensible reason. I [hacked
-on](https://github.com/abackstrom/markdown-preview)
-[borismus/markdown-preview](https://github.com/borismus/markdown-preview)
-specifically so it would convert his page.
+on][1] [borismus/markdown-preview][2] specifically so it would convert his
+page:
 
-Extension changes:
-
-* Primarily cares about Content-Type header
+* Primarily cares about Content-Type header (this page doesn't have `.md` in
+  the URL)
 * Converts `text/markdown` documents
 * Will also convert `text/plain` documents if the path ends in `.md`
+
+  [1]: https://github.com/abackstrom/markdown-preview
+  [2]: https://github.com/borismus/markdown-preview
 
 # 2017-03-07
 
