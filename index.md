@@ -16,7 +16,7 @@ page:
 * Converts `text/markdown` documents
 * Will also convert `text/plain` documents if the path ends in `.md`
 
-(This hacky extension is posted on the Chrome Web Store for my own personal use.)
+(This hacky extension is [published on the Chrome Web Store][3] for my own personal use.)
 
 What do I even like about this dumb page? It's less daunting than creating a
 new blog post. It's less public than Twitter, so essentially no pressure. 
