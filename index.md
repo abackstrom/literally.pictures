@@ -16,6 +16,8 @@ page:
 * Converts `text/markdown` documents
 * Will also convert `text/plain` documents if the path ends in `.md`
 
+https://chrome.google.com/webstore/detail/markdown-preview/pjgdkjboeaefnfakgnlklhbmgmiadmcg
+
 What do I even like about this dumb page? It's less daunting than creating a
 new blog post. It's less public than Twitter, so essentially no pressure. 
 
