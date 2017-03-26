@@ -3,14 +3,14 @@
 # synology diskstation isn't nice about setting the environment in scheduled tasks
 HOME=/var/services/homes/annika
 
-cd /volume1/annika/literally.pictures
+cd "${HOME}/literally.pictures"
 
 # update local copy
 git fetch
 git reset --hard origin/master
 
 # update index.txt from dropbox
-cp /volume1/sync/dropbox/Notes/literally.pictures.txt /volume1/annika/literally.pictures/index.md
+cp /volume1/sync/dropbox/Notes/literally.pictures.txt "${HOME}/literally.pictures/index.md"
 
 # push to remote repository
 git add index.md
